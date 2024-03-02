@@ -10988,3 +10988,6 @@ header.masthead h1, header.masthead .h1 {
   height: 50px;
   margin-right: 10px;
 }
+.rounded-image {
+  border-radius: 10px;
+}
