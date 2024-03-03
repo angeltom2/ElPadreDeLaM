@@ -588,9 +588,29 @@ progress {
   content: "— ";
 }
 
-.img-fluid {
-  max-width: 100%;
-  height: auto;
+.img-fluidMESSIBALON {
+  width: 450px;
+  height: 350px;
+}
+.img-fluidSEX {
+  width: 450px;
+  height: 350px;
+}
+.img-fluidMESSIpapa {
+  width: 450px;
+  height: 350px;
+}
+.img-fluidMSN {
+  width: 450px;
+  height: 350px;
+}
+.img-fluidmessiMundial{
+  width: 450px;
+  height: 350px;
+}
+.img-fluidMessjoven{
+  width: 450px;
+  height: 350px;
 }
 
 .img-thumbnail {
