@@ -2856,19 +2856,19 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #006eb2;
-  --bs-btn-border-color: #006eb2;
+  --bs-btn-bg:lightgray;
+  --bs-btn-border-color:grey;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg:#006eb2;
-  --bs-btn-hover-border-color: #006eb2;
+  --bs-btn-hover-bg:grey;
+  --bs-btn-hover-border-color: grey;
   --bs-btn-focus-shadow-rgb: 246, 122, 88;
   --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #006eb2;
-  --bs-btn-active-border-color:#006eb2;
+  --bs-btn-active-bg: grey;
+  --bs-btn-active-border-color:grey;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #fff;
-  --bs-btn-disabled-bg: #006eb2;
-  --bs-btn-disabled-border-color:#006eb2;
+  --bs-btn-disabled-bg: grey;
+  --bs-btn-disabled-border-color:grey;
 }
 
 .btn-secondary {
@@ -8137,7 +8137,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: grey !important;
 }
 
 .bg-secondary {
@@ -8167,7 +8167,7 @@ textarea.form-control-lg {
 
 .bg-light {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+  background-color: lightgray!important;
 }
 
 .bg-dark {
@@ -10939,7 +10939,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/Imagen\ de\ WhatsApp\ 2024-02-27\ a\ las\ 21.25.15_769c1360.jpg");
+  background:  url("/assets/img/fondo\ 9.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
